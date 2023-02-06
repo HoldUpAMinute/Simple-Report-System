@@ -16,6 +16,10 @@ pip install foobar
 
 /reports : Lets Admins See Reports
 
+## examples
+
+![image1](https://cdn.discordapp.com/attachments/803193869764263976/1072084079924740127/image.png)
+
 ## License
 
 [license.txt](https://choosealicense.com/licenses/mit/)
