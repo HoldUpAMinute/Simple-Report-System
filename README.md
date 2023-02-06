@@ -20,6 +20,8 @@ pip install foobar
 
 ![image1](https://cdn.discordapp.com/attachments/803193869764263976/1072084079924740127/image.png)
 
+![image2](https://cdn.discordapp.com/attachments/803193869764263976/1072084834962386984/image.png)
+
 ## License
 
 [license.txt](https://choosealicense.com/licenses/mit/)
