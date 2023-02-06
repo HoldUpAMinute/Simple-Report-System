@@ -3,9 +3,7 @@
 a simple report system as said in the title
 
 ## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
+Install Pixel UI & Our Addon
 ```
 Requirments 
 
