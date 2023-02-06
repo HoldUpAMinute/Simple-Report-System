@@ -6,8 +6,10 @@ a simple report system as said in the title
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
-```bash
-pip install foobar
+```
+Requirments 
+
+-- Pixel UI (Our UI Framework We Use) Credits To Tom.Bat
 ```
 
 ## Usage
@@ -24,4 +26,4 @@ pip install foobar
 
 ## License
 
-[license.txt](https://choosealicense.com/licenses/mit/)
+[license.txt](https://github.com/HoldUpAMinute/Simple-Report-System/blob/main/report_system/license.txt)
